@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 2021  Test</h1>
-		<p><b>  Jyoti gautam Nokia openshift</b></p>
+		<p><b>  Jyoti gautam redhat openshift</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION2 </h2> 
